@@ -18,9 +18,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```python
+#Program to swap two values.
+#Developed by: MANOJ S
+#RegisterNumber:22009066
+a = float (input())
+b = float (input())
+temp = a
+a = b
+b = temp
+print("Swapped values are: {} {}".format(a,b))
+```
 
 
-
+## OUTPUT:
+![SWAPPINGOPIMG](swapopimg.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
